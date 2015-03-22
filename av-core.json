@@ -1,0 +1,9 @@
+{
+  "name": "av-core",
+  "dependence": ["core"],
+  "source":"src",
+  "file_list": [
+    "av-core.d.ts",
+    "av-core.js"
+  ]
+}
